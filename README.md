@@ -1,5 +1,6 @@
 def menu():
-    print("**MENU**")
+
+    print("**MENU PRINCIPAL**")
     print("1_ Ingresar numero")
     print("2_ Mostrar mayor")
     print("3_ Mostrar promedio")
